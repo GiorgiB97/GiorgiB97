@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4>Programming languages I'm an expert at:</h2>
+  <h4>Programming languages I'm an expert in:</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-404040.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
     <img src="https://img.shields.io/badge/TypeScript-404040.svg?style=for-the-badge&logo=typescript&logoColor=F7E017">
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <h4>Frontend frameworks I've mastered over the years:</h2>
+  <h4>Frontend frameworks I've mastered over the years:</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/React-404040.svg?style=for-the-badge&logo=react&logoColor=F7E017">
     <img src="https://img.shields.io/badge/Next_JS-404040.svg?style=for-the-badge&logo=next.js&logoColor=F7E017">
@@ -24,7 +24,7 @@
 </p>
 
 <p>
-  <h4>Backend frameworks I'm proficient with:</h2>
+  <h4>Backend frameworks I'm proficient in:</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/fastapi-404040.svg?style=for-the-badge&logo=fastapi&logoColor=F7E017">
     <img src="https://img.shields.io/badge/nest_js-404040.svg?style=for-the-badge&logo=NestJs&logoColor=F7E017">
@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <h4>Database engines I've worked with:</h2>
+  <h4>Database engines I've worked with:</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-404040.svg?style=for-the-badge&logo=postgresql&logoColor=F7E017">
     <img src="https://img.shields.io/badge/MySQL-404040.svg?style=for-the-badge&logo=mysql&logoColor=F7E017">
@@ -45,7 +45,7 @@
 </p>
 
 <p>
-  <h4>Cloud infrastructure I'm experienced at:</h2>
+  <h4>Cloud infrastructure I'm experienced with:</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/AWS-404040.svg?style=for-the-badge&logo=googlecloud&logoColor=F7E017">
     <img src="https://img.shields.io/badge/Azure-404040.svg?style=for-the-badge&logo=googlecloud&logoColor=F7E017">
@@ -53,7 +53,7 @@
 </p>
 
 <p>
-  <h4>I love using:</h2>
+  <h4>I love using:</h4>
   <div align="left">
     <img src="https://img.shields.io/badge/Cursor-404040.svg?style=for-the-badge&logo=cursor&logoColor=F7E017">
     <img src="https://img.shields.io/badge/Claude-404040.svg?style=for-the-badge&logo=claude&logoColor=F7E017">
