@@ -70,6 +70,7 @@
     <a href="https://www.toptal.com/resume/giorgi-batiashvili" rel="nofolow" target="_blank">
       <img src="https://img.shields.io/badge/Toptal-404040.svg?style=for-the-badge&logo=toptal&logoColor=FFFFFF">
     </a>
+    ![ToptalBadge](./toptal-badge.svg)
   </div>
 </p>
 
