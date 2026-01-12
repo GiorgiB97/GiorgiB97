@@ -67,21 +67,27 @@
 <p>
   <h4>Hire me at:</h4>
   <div>
-    <a href="https://www.toptal.com/resume/giorgi-batiashvili" rel="nofolow" target="_blank">
+    <a href="https://www.toptal.com/resume/giorgi-batiashvili#NWed10" rel="nofollow" target="_blank">
       <img src="https://img.shields.io/badge/Toptal-404040.svg?style=for-the-badge&logo=toptal&logoColor=FFFFFF">
     </a>
-    ![ToptalBadge](./toptal-badge.svg)
   </div>
 </p>
 
 <p>
   <h4>Get in touch with me:</h4>
   <div>
-    <a href="https://www.linkedin.com/in/giorgibatiashvili" rel="nofolow" target="_blank">
+    <a href="https://www.linkedin.com/in/giorgibatiashvili" rel="nofollow" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-404040.svg?style=for-the-badge">
     </a>
-    <a href="https://www.facebook.com/GiorgiiiB" rel="nofolow" target="_blank">
+    <a href="https://www.facebook.com/GiorgiiiB" rel="nofollow" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-404040.svg?style=for-the-badge">
     </a>
   </div>
+</p>
+
+<p>
+  <br/>
+  <a href="https://www.toptal.com/resume/giorgi-batiashvili#NWed10" rel="nofollow" target="_blank">
+    <img src="https://talent.toptal.com/portal/static/media/light.f91914de.png" width="130" height="150" alt="Toptal Badge">
+  </a>
 </p>
